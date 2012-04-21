@@ -1,4 +1,8 @@
 Revision history for Perl extension Text::Markdown::Pluggable
 
+0.02    Sat Apr 21 17:36:00 2012
+        - Fixed problem not able to install
+          (rewrited Makefile.PL with Module::Install)
+
 0.01    Sat Apr 21 03:24:30 2012
         - original version

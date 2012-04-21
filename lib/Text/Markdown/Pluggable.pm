@@ -6,7 +6,7 @@ use parent 'Text::Markdown';
 use Text::Markdown ();
 use Class::Load ();
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub import {
     my ($class, @subs) = @_;
